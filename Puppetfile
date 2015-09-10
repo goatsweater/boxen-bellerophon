@@ -65,3 +65,8 @@ github "xquartz",     "1.2.1"
 # github "postgresql",  "4.0.1"
 # github "redis",       "3.1.0"
 # github "sysctl",      "1.0.1"
+
+github "atom",           "1.2.0"
+github "chrome",      "1.2.0"
+github "firefox",     "1.2.3"
+github "github_for_mac", "1.4.0", :repo => "dieterdemeyer/puppet-github_for_mac"
